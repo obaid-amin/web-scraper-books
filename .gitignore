@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Scraper output (keep sample_output.csv as the demo; ignore other runs)
+books.csv
+check.csv
+*.tmp
